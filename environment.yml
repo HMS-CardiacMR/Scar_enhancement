@@ -1,0 +1,21 @@
+name: enhscar
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - torchaudio
+  - pytorch-cuda=11.8
+  - pytorch
+  - torchvision
+  - pip:
+    - pandas
+    - numpy
+    - lpips
+    - matplotlib 
+    - nibabel
+    - tqdm
+    - click
+    - scikit-image
+    - opencv-python
+    - monai 
+    - wandb 

@@ -1,0 +1,15 @@
+numpy
+pandas
+lpips
+matplotlib 
+nibabel
+tqdm
+click
+scikit-image
+opencv-python
+monai 
+wandb 
+torch 
+torchvision 
+torchaudio 
+--index-url https://download.pytorch.org/whl/cu118

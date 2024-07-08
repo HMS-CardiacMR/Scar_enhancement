@@ -1,0 +1,2 @@
+,Unnamed: 0,img_path_original,label_path,slice,scar,img_path_enhanced,subject_id
+0,0,original_data/001-534-01_image.nii.gz,original_data_labels/001-534-01_image_label.nii.gz,1,True,enhanced_data5/001-534-01_image.nii.gz,001-534

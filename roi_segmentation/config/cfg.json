@@ -1,0 +1,5 @@
+{
+    "batch_size" : 64,
+    "seg_num_epochs" : 50,
+    "seg_learning_rate" : 0.001
+}
